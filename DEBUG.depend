@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1470059272 source:c:\users\duy huynh\desktop\tht\solution\debug\main.cpp
+	"main_lib.h"
+
+1470058546 c:\users\duy huynh\desktop\tht\solution\debug\chk_s.h
+	"main_lib.h"
+
+1470058527 c:\users\duy huynh\desktop\tht\solution\debug\shortcut.h
+	"main_lib.h"
+
+1470058246 c:\users\duy huynh\desktop\tht\solution\debug\main_lib.h
+	<bits/stdc++.h>
+	"shortcut.h"
+	"chk_s.h"
+	"global_var.h"
+	"io_data.h"
+	"binpack_naive_algo.h"
+
+1470058565 c:\users\duy huynh\desktop\tht\solution\debug\global_var.h
+	"main_lib.h"
+
+1470057704 c:\users\duy huynh\desktop\tht\solution\debug\io_data.h
+	"main_lib.h"
+
+1470058012 c:\users\duy huynh\desktop\tht\solution\debug\naive_algo.h
+
+1470059361 c:\users\duy huynh\desktop\tht\solution\debug\binpack_naive_algo.h
+	"main_lib.h"
+
+1470485585 source:c:\users\duy huynh\desktop\xxyzz\debug\main.cpp
+	"main_lib.h"
+
+1470485574 c:\users\duy huynh\desktop\xxyzz\debug\main_lib.h
+	<bits/stdc++.h>
+	"shortcut.h"
+	"global_var.h"
+	"global_timer.h"
+	"chk_s.h"
+	"io_data.h"
+	"global_method.h"
+	"binpack_naive_algo.h"
+	"binpack_naive_random.h"
+	"binpack_naive_rev.h"
+	"simple_greedy.h"
+	"queue_greedy.h"
+	"fill_greedy.h"
+	"test.h"
+
+1470342572 c:\users\duy huynh\desktop\xxyzz\debug\shortcut.h
+	"main_lib.h"
+
+1470484084 c:\users\duy huynh\desktop\xxyzz\debug\chk_s.h
+	"main_lib.h"
+
+1470484209 c:\users\duy huynh\desktop\xxyzz\debug\global_var.h
+	"main_lib.h"
+
+1470347088 c:\users\duy huynh\desktop\xxyzz\debug\io_data.h
+	"main_lib.h"
+
+1470346606 c:\users\duy huynh\desktop\xxyzz\debug\binpack_naive_algo.h
+	"main_lib.h"
+
+1470343580 c:\users\duy huynh\desktop\xxyzz\debug\global_method.h
+	"main_lib.h"
+
+1470346808 c:\users\duy huynh\desktop\xxyzz\debug\simple_greedy.h
+	"main_lib.h"
+
+1470349504 c:\users\duy huynh\desktop\xxyzz\debug\test.h
+	"main_lib.h"
+
+1470346714 c:\users\duy huynh\desktop\xxyzz\debug\queue_greedy.h
+	"main_lib.h"
+
+1470296017 c:\users\duy huynh\desktop\xxyzz\debug\timer.h
+
+1470298286 c:\users\duy huynh\desktop\xxyzz\debug\global_timer.h
+	"main_lib.h"
+
+1470381110 c:\users\duy huynh\desktop\xxyzz\debug\binpack_naive_rev.h
+
+1470349512 c:\users\duy huynh\desktop\xxyzz\debug\fill_greedy.h
+	"main_lib.h"
+
+1470485744 c:\users\duy huynh\desktop\xxyzz\debug\binpack_naive_random.h
+	"main_lib.h"
+
